@@ -1,1 +1,5 @@
 __pycache__
+files/wikiart
+files/wikiart_small
+files/finetuned_model_params-4.pt
+files/finetuned_model_params-4-further.pt
